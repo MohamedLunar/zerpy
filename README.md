@@ -9,7 +9,7 @@ pip install zerpy
 ## #2 Usage
 - Connect & Registring & Load databases
 ```python
-import zerpyimport zerpy
+import zerpy
 from zerpy import db
 
 # Connect to a database
@@ -30,7 +30,7 @@ db.delete("USER_ID")
 ```
 - Managing .env
 ```python
-import zerpyimport zerpy
+import zerpy
 from zerpy import env
 import os
 
