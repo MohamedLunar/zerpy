@@ -19,7 +19,7 @@ db = zerpy.connect("example.db")
 db.load()
 
 # Retrieve data from a specific database
-USER_ID = db.get_database("USER")
+USER_ID = db.get_database("USER_ID")
 print(USER_ID)
 
 # Register new data into the database
