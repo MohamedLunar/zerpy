@@ -1,7 +1,7 @@
 # ZerPy
 - **ZerPy** is a poweful database and environment managing you can found it on [PyPI](https://pypi.org/project/zerpy)
-- Documentation: https://zerpy-pypi.github.io/docs
-- website: https://zerpy-pypi.github.io
+- Documentation: https://zerpy-pip.vercel.app/docs
+- website: https://zerpy-pip.vercel.app
 # Package Guide
 ## #1 Installation
 - You can install **ZerPy** package via:
